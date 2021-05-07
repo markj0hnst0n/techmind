@@ -39,3 +39,29 @@
 .text-yellow {
     color: #FCF170 !important;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.btn.correct {
+    background-color: #008000;
+    color: #fff;
+}
+
+
+
+.btn.incorrect {
+    background-color: #ff0000;
+    color: #fff;
+}
