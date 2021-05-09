@@ -81,12 +81,12 @@
         "image": "https://imgur.com/X0Uhzfb.jpg"
     },
     {
-        "question": "Who played a part in uncovering one of the largest global cyper espionage campaigns, Could Hopper, last year?",
+        "question": "Who played a part in uncovering one of the largest global cyper espionage campaigns, Cloud Hopper?",
         "correct": 3,
         "ans1": "Michelle Obama",
         "ans2": "Naomi Campbell",
         "ans3": "Alexandra Phillips",
-        "fact": " ",
+        "fact": "Cyber spying, or cyber espionage, is the act or practice of obtaining secrets and information without the permission and knowledge of the holder of the information.",
         "image": "https://imgur.com/PV0zmF0.jpg"
     },
     {
@@ -95,25 +95,25 @@
         "ans1": "Captain Megan Couto",
         "ans2": "PwC director Jo Salter",
         "ans3": "Pilot Edith Cook",
-        "fact": " ",
+        "fact": "She joined the RAF at the age of 18 to be an engineering officer and went on to train as a combat ready pilot, flying the Tornado GR1 in 617 Squadron, the Dambusters, as well as being a fast jet instructor on the Hawk.",
         "image": "https://imgur.com/opWfxfW.jpg"
     },
     {
-        "question": "What were the three female African-American mathematicians at NASA who are celebrated in the 2016 film Hidden Figures known as within the space agency",
+        "question": "What were the three female African-American mathematicians at NASA who are celebrated in the 2016 film 'Hidden Figures' known as within the space agency",
         "correct": 1,
         "ans1": "'Computers in Skirts'",
         "ans2": "'Calculators in Lipsticks'",
         "ans3": "'Abacuses in Heels'",
-        "fact": " ",
+        "fact": "'Hidden Figures' focuses on the stories of three computers: Mary Jackson, Katherine Johnson and Dorothy Vaughan.",
         "image": "https://raw.githubusercontent.com/markj0hnst0n/techmind/master/assets/images/Dark%20red%20boy%20hero%20running.jpg"
     },
     {
-        "question": "Who was the first person to start a computer dataing service in 1964",
+        "question": "Who was the first person to start a computer dating service in 1964",
         "correct": 2,
-        "ans1": "Joan Bell",
-        "ans2": "Mary Winters",
+        "ans1": "Martha Winters",
+        "ans2": "Joan Bell",
         "ans3": "Alice Erikson",
-        "fact": " ",
+        "fact": "The company was called 'St. James Computer Dating Service' (later to become 'Com-Pat').",
         "image": "https://imgur.com/G7nW6Gm.jpg"
     },
     {
@@ -122,7 +122,7 @@
         "ans1": "Ellen Porter",
         "ans2": "Hannah Smyth",
         "ans3": "Roberta Williams",
-        "fact": " ",
+        "fact": "King's Quest is widely considered a classic series from the golden era of adventure games.",
         "image": "https://imgur.com/94oVVtI.jpg"
     },
     {
@@ -131,7 +131,7 @@
         "ans1": "'Black Girls Code (BGC)'",
         "ans2": "'Black Women in STEM (BWIS)'",
         "ans3": "'Black Women Technology (BWT)'",
-        "fact": " ",
+        "fact": "Their mission is to empower young women of color between the ages of 7-14 to become the masters of their technological universe. Tremendous barriers remain for the entry of women and people of color into the technology field",
         "image": "https://imgur.com/aYHCmAh.jpg"
     },
     {
@@ -140,7 +140,7 @@
         "ans1": "'Women Code It'",
         "ans2": "'Girl Develop It'",
         "ans3": "'Females Lead It'",
-        "fact": " ",
+        "fact": "This non-profit oganization provides affordable programs for adult women interested in learning web and software development in a judgment-free environment.",
         "image": "https://raw.githubusercontent.com/markj0hnst0n/techmind/master/assets/images/Blue%20boy%20hero.jpg"
     },
     {
@@ -149,7 +149,7 @@
         "ans1": "Meera Khatri",
         "ans2": "'Adhira Devi",
         "ans3": "Reshma Saujani",
-        "fact": " ",
+        "fact": "They believe that diverse ability, culture, identity, and opinion makes their organization stronger",
         "image": "https://raw.githubusercontent.com/markj0hnst0n/techmind/master/assets/images/hero-green-boy.jpg"
     },
     {
@@ -158,7 +158,7 @@
         "ans1": "Sophia",
         "ans2": "Rebecca",
         "ans3": "Andrea",
-        "fact": " ",
+        "fact": "She is a social humanoid robot developed by Hanson Robotics. She was activated in 2016, and made her first public appearance at South by Southwest Festiva, United States.",
         "image": "https://raw.githubusercontent.com/markj0hnst0n/techmind/master/assets/images/hero-light-green.jpg"
     },
     {
@@ -167,16 +167,16 @@
         "ans1": "Mary Jackson",
         "ans2": "Katherine Johnson",
         "ans3": "Dorothy Vaughn",
-        "fact": " ",
+        "fact": "She has been awarded the Presidential Medal of freedom, NASA Group Achievement Award and a Congressional Gold Medal",
         "image": "https://raw.githubusercontent.com/markj0hnst0n/techmind/master/assets/images/hero-yellow.jpg"
     },
     {
-        "question": "What important role did Marfaret Hamilton play in the launch of the Apollo 11 Space Mission?",
+        "question": "What important role did Margaret Hamilton play in the launch of the Apollo 11 Space Mission?",
         "correct": 1,
         "ans1": "Computer programming",
         "ans2": "Trajectory calculations",
         "ans3": "Application development",
-        "fact": " ",
+        "fact": "In 2017, a 'Women of NASA' LEGO set went on sale featuring minifigures of Hamilton, along with other women who have made an impact in the tech sector.",
         "image": "https://imgur.com/pUzQXvd.jpg"
     }
 ]

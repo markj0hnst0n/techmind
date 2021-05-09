@@ -119,8 +119,11 @@ button#audio-btn:hover {
     background-color: #2d1f54;
 }
 
-button.btn.ans-choice:hover {
-    font-size: 110%;
+/* Stops hover affect on mobile */
+@media (pointer: fine) {
+    button.btn.ans-choice:hover {
+        font-size: 110%
+    }
 }
 
 /* HOME PAGE */
@@ -150,7 +153,6 @@ button.btn.ans-choice:hover {
     font-size: 1.5em;
 }
 
-
 #audio-btn {
     width: 1.6em;
     height: 1.6em;
@@ -162,7 +164,6 @@ button.btn.ans-choice:hover {
 a:link{
 text-decoration: none!important;
 }
-
 
 #lightbulbBtn {
     width: 1.6em;
@@ -184,10 +185,16 @@ text-decoration: none!important;
 }
 
 .hero-girl {
-    min-width: 15vw;
+    width: 15vw;
     margin-top: 5vh;
     border: solid 3px #4595bd;
     border-radius: 5px;
+}
+
+@media only screen and (max-width: 766px) {
+    .hero-girl {
+        width: 50vw;
+    }
 }
 
 .answers-row {
@@ -307,6 +314,7 @@ input:focus {
     border-radius: 10px;
     border: solid 5px #4595bd;
     background-color: #CBECF8;
+    padding-bottom: 3em;
 }
 
 .navigation-buttons {
@@ -329,4 +337,9 @@ input:focus {
 /* RULES */ 
 .rules-card {
     margin: 0 15px 0 15px;
+    border: solid 5px #4595bd;
+}
+
+.rules-nav {
+    margin: 8px;
 }
