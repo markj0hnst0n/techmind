@@ -70,5 +70,113 @@
         "ans3": "Apple",
         "fact": "Susan Kare is one of the notable contemporary American graphic designers of the 1980s.",
         "image": "https://res.cloudinary.com/veraleitao/image/upload/v1620528522/hero-viking_hvxzhs.jpg"
+    },
+    {
+        "question": "Which supermodel is currently spearheading a campaign to get girls to learn coding?",
+        "correct": 1,
+        "ans1": "Karlie Kloss",
+        "ans2": "Cara Delevingne",
+        "ans3": "Christy Turlington",
+        "fact": "This model has an interest in technology and has founded a camp that aims to get young girls interested in STEM.",
+        "image": "https://imgur.com/X0Uhzfb.jpg"
+    },
+    {
+        "question": "Who played a part in uncovering one of the largest global cyper espionage campaigns, Could Hopper, last year?",
+        "correct": 3,
+        "ans1": "Michelle Obama",
+        "ans2": "Naomi Campbell",
+        "ans3": "Alexandra Phillips",
+        "fact": " ",
+        "image": "https://imgur.com/PV0zmF0.jpg"
+    },
+    {
+        "question": "Which woman uses her skills as Britain's first female flighter pilot in the RAF to encourage more women into tech?",
+        "correct": 2,
+        "ans1": "Captain Megan Couto",
+        "ans2": "PwC director Jo Salter",
+        "ans3": "Pilot Edith Cook",
+        "fact": " ",
+        "image": "https://imgur.com/opWfxfW.jpg"
+    },
+    {
+        "question": "What were the three female African-American mathematicians at NASA who are celebrated in the 2016 film Hidden Figures known as within the space agency",
+        "correct": 1,
+        "ans1": "'Computers in Skirts'",
+        "ans2": "'Calculators in Lipsticks'",
+        "ans3": "'Abacuses in Heels'",
+        "fact": " ",
+        "image": "https://raw.githubusercontent.com/markj0hnst0n/techmind/master/assets/images/Dark%20red%20boy%20hero%20running.jpg"
+    },
+    {
+        "question": "Who was the first person to start a computer dataing service in 1964",
+        "correct": 2,
+        "ans1": "Joan Bell",
+        "ans2": "Mary Winters",
+        "ans3": "Alice Erikson",
+        "fact": " ",
+        "image": "https://imgur.com/G7nW6Gm.jpg"
+    },
+    {
+        "question": "Who did pioneering work in graphical adventure games for personal computers, particularly the King's Quest series?",
+        "correct": 3,
+        "ans1": "Ellen Porter",
+        "ans2": "Hannah Smyth",
+        "ans3": "Roberta Williams",
+        "fact": " ",
+        "image": "https://imgur.com/94oVVtI.jpg"
+    },
+    {
+        "question": "'Imagine, Build, Create' is the motto of an organization that focuses on providing technology education for African-American Girls. What is the name of this non-profit organization?",
+        "correct": 1,
+        "ans1": "'Black Girls Code (BGC)'",
+        "ans2": "'Black Women in STEM (BWIS)'",
+        "ans3": "'Black Women Technology (BWT)'",
+        "fact": " ",
+        "image": "https://imgur.com/aYHCmAh.jpg"
+    },
+    {
+        "question": "Vanessa Hurst is the co-founder of which organization devoted to getting women the materials they need to persue a career in software development?",
+        "correct": 2,
+        "ans1": "'Women Code It'",
+        "ans2": "'Girl Develop It'",
+        "ans3": "'Females Lead It'",
+        "fact": " ",
+        "image": "https://raw.githubusercontent.com/markj0hnst0n/techmind/master/assets/images/Blue%20boy%20hero.jpg"
+    },
+    {
+        "question": "Who is the founder of the tech organization 'Girls Who Code' that is working to close the gender gap in technology?",
+        "correct": 3,
+        "ans1": "Meera Khatri",
+        "ans2": "'Adhira Devi",
+        "ans3": "Reshma Saujani",
+        "fact": " ",
+        "image": "https://raw.githubusercontent.com/markj0hnst0n/techmind/master/assets/images/hero-green-boy.jpg"
+    },
+    {
+        "question": "What is the name of the humanoid robot that became the first machine to recieve citizenship of any country?",
+        "correct": 1,
+        "ans1": "Sophia",
+        "ans2": "Rebecca",
+        "ans3": "Andrea",
+        "fact": " ",
+        "image": "https://raw.githubusercontent.com/markj0hnst0n/techmind/master/assets/images/hero-light-green.jpg"
+    },
+    {
+        "question": "Which mathematician calculated the trajectories of Apollo 11, the mission which enabled man to take his first steps on the moon?",
+        "correct": 2,
+        "ans1": "Mary Jackson",
+        "ans2": "Katherine Johnson",
+        "ans3": "Dorothy Vaughn",
+        "fact": " ",
+        "image": "https://raw.githubusercontent.com/markj0hnst0n/techmind/master/assets/images/hero-yellow.jpg"
+    },
+    {
+        "question": "What important role did Marfaret Hamilton play in the launch of the Apollo 11 Space Mission?",
+        "correct": 1,
+        "ans1": "Computer programming",
+        "ans2": "Trajectory calculations",
+        "ans3": "Application development",
+        "fact": " ",
+        "image": "https://imgur.com/pUzQXvd.jpg"
     }
 ]
