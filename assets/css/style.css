@@ -147,6 +147,15 @@ button#audio-btn:hover {
     font-weight: 600;
 }
 
+#info-box {
+    padding: 15px;
+    background-color: #FCF170;
+    border-radius: 10px;
+    border: solid 3px #4595bd;
+    color: #2d1f54;
+    margin-bottom: 50px;
+}
+
 /* GAME PLAY*/
 
 .home-btn {
