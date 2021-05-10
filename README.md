@@ -47,7 +47,8 @@ User goal: To play a fun game and learn about women in tech.
 
 <img height="100" src="https://github.com/markj0hnst0n/techmind/blob/master/assets/images/techmind_colours.png">
 
-### Features
+## Features
+### Current Features
 
 - All pages fully reponsive on all screen sizes.
 - Fully functioning navigation links on all pages for ease of access through site.
@@ -102,6 +103,17 @@ for fonts used in the project.
 [Google Chrome Development Tools](https://developers.google.com/web/tools/chrome-devtools) for testing code on various device sizes during development and debugging.
 
 [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) for testing code health, accessibility, speed and search engine optimisation.
+
+## Trello
+We used Trello as a way to keep ourselves organized throughout the process. We wera able to create jobs that needed to be done and each person was able to assign them to themselves to take on the task. 
+
+<img height="100" src="https://github.com/markj0hnst0n/techmind/blob/master/assets/images/trello-02.PNG">
+
+Once we had taken on a role, we were able to move them to the appropriate column depending on where in the task we were. If you wanted to know if something was in the middle of being worked on or if it was completed, you could just refer to the board. It saved a lot of unnecessary back-and-forth between the group.  
+
+<img height="100" src="https://github.com/markj0hnst0n/techmind/blob/master/assets/images/trello-01.PNG">
+
+As it stands, our board is completed. 
 
 # Deployment
 
