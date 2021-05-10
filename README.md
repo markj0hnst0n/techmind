@@ -109,6 +109,11 @@ Deployed via Github pages but selecting the master branch.
 
 # Testing
 
+## Validation
+- HTML passed through the [validator](https://validator.w3.org/) without any errors. 
+- CSS passed through the [validator](https://jigsaw.w3.org/css-validator/) without errors.
+- JavaScript passed through the [validator](https://jshint.com/) without any errors.
+
 Google Lighthouse was used to test accessibility scores and off the back of this some of the colour's were changed to improve contrast.  Links were also given discernable names and this will help those users using screenreaders.
 
 ## Responsiveness
