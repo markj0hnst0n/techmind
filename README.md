@@ -6,6 +6,8 @@ The idea is to create a fun learning environment aimed at children of any gender
 
 Link to the Live Site: https://markj0hnst0n.github.io/techmind/
 
+Link to the Trello work board: https://trello.com/b/whM4Zlmd
+
 # UX
 
 ## User Stories
@@ -37,10 +39,9 @@ User goal: To play a fun game and learn about women in tech.
 - [Score page mobile](assets/images/score-mobile.png "wireframe for Scores page in mobile view")
 - [Score page desktop](assets/images/score-desktop.png "wireframe for Scores page in desktop view")
 
-
-
-
 ## Fonts
+
+[Imprima](https://fonts.google.com/specimen/Imprima) was the font that was used for the whole website. 
 
 ## Colour Scheme
 
@@ -48,7 +49,18 @@ User goal: To play a fun game and learn about women in tech.
 
 ### Features
 
+- All pages fully reponsive on all screen sizes.
+- Fully functioning navigation links on all pages for ease of access through site.
+- Optional audio played through game.
+- Randomised questions specifically about women in tech.
+- Continuous score updates as the game progresses.
+- Continuous question number updates as the game progresses.
+- Ability to enter name at the end of the game to add to a local leader board.
+- Local leader board accessible after site is closed and reopened.
+
 ### Features not implemented
+
+- At the moment the user scores are only stored in local storage so there is no 'global' leaderboard which would be a nice addition.
 
 # Technologies Used
 
@@ -99,7 +111,7 @@ Deployed via Github pages but selecting the master branch.
 
 Google Lighthouse was used to test accessibility scores and off the back of this some of the colour's were changed to improve contrast.  Links were also given discernable names and this will help those users using screenreaders.
 
-##Responsiveness
+## Responsiveness
 Chrome DevTools was used to test the responsiveness. 
 
 The following devices was tested:
@@ -116,15 +128,11 @@ The following devices was tested:
 - Surface Duo
 - Galaxy Fold
 
-# Credits
-
 ## Content
 Content written by Amy O'Shea, Maria Lundgren, Mark Johnston, Moira Hartigan and Vera Leitao.
 
 ## Media
 Images were sourced through freepic.com
-
-## Acknowledgements
 
 ## Disclaimer
 
