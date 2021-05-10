@@ -343,3 +343,13 @@ input:focus {
 .rules-nav {
     margin: 8px;
 }
+
+.rules-list {
+    font-weight: 600;
+    margin-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.rules-list li {
+    margin-bottom: 25px;
+}
